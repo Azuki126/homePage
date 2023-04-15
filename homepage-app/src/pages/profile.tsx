@@ -27,6 +27,7 @@ export default function Prof() {
                 <p>実は受験生だったりする</p>
                 <p>中野あるまさんのyoutubeを見ることが日課</p>
                 <p>目標:180cm、80kg</p>
+                <p>aa</p>
 
             </div>
             <Link href="/" className="bg-green-300">
